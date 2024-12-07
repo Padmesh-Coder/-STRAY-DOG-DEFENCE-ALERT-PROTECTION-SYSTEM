@@ -1,0 +1,6 @@
+path: '/content/gdrive/MyDrive/yolo/dataset'
+train: /content/gdrive/MyDrive/yolo/dataset/train
+val:  /content/gdrive/MyDrive/yolo/dataset/val
+
+names:
+  0:Aggressive, 1:Non_Aggressive
